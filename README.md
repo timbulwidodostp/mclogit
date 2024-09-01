@@ -1,6 +1,8 @@
 # mclogit
 Conditional Logit Models and Mixed Conditional Logit Models Use mclogit With (In) R Software
 
+https://www.youtube.com/watch?v=IBWX0o5Ivcc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
